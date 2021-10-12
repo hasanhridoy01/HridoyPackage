@@ -1,0 +1,13 @@
+{
+    "name": "hasanhridoy/hridoy",
+    "description": "this is a test project",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hasanhridoy01\\Hridoy\\" : "src"
+        }
+    }
+}
